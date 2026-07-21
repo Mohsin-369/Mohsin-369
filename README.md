@@ -368,7 +368,7 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 
 <br><br>
 
-<a href="https://majorproject-mp5o.onrender.com/listings">
+<a href="https://mohstay.onrender.com">
 <img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
 </a>
 
