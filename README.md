@@ -635,7 +635,7 @@ Community
 
 # 🌸 Thanks for Visiting
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=E57399&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!+💻;Let's+Build+Something+Amazing!+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=E57399&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let%27s+Build+Something+Amazing!" alt="Typing SVG" />
 
 <br><br>
 
