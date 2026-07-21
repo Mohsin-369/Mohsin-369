@@ -16,7 +16,9 @@ srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FCE
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=850&color=E57399&lines=Full-Stack+Developer;Building+Modern+Web+Applications;React+•+Node.js+•+MongoDB;Learning+DevOps+%26+Cloud;Always+Building.+Always+Learning."/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&color=E57399&lines=Full-Stack+Developer;MERN+Stack+Developer;Learning+DevOps+%26+Cloud;Building+Modern+Web+Applications;Always+Building+Something+New"
+alt="Typing SVG"/>
 
 <br><br>
 
