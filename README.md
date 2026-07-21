@@ -239,10 +239,6 @@ A modern peer-to-peer video conferencing platform built with **WebRTC**, **Socke
 <img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Mohsin-369/YOUR_REPO">
-<img src="https://img.shields.io/badge/📂 GitHub-F48FB1?style=for-the-badge"/>
-</a>
-
 </td>
 
 <td width="50%" align="center">
@@ -287,7 +283,9 @@ A gamified developer productivity platform that combines learning, roadmaps, cha
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🚧 Coming%20Soon-F8BBD0?style=for-the-badge"/>
+<a href="https://mohrocket.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -321,13 +319,10 @@ A modern photography portfolio showcasing landscapes, travel, and nature through
 
 <br><br>
 
-<a href="YOUR_LIVE_LINK">
+<a href="lostlens.netlify.app">
 <img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Mohsin-369/YOUR_REPO">
-<img src="https://img.shields.io/badge/📂 GitHub-F48FB1?style=for-the-badge"/>
-</a>
 
 </td>
 
