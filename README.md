@@ -1,9 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E53935&text=MOHSIN%20MANZOOR&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=F48FB1&text=MOHSIN%20MANZOOR&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descAlignY=58&animation=fadeIn"/>
 
 </div>
-
 <br>
 
 <img
