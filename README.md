@@ -1,18 +1,8 @@
 <div align="center">
 
-<picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E53935&text=MOHSIN%20MANZOOR&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descAlignY=58&animation=fadeIn"/>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:B71C1C,50:D32F2F,100:EF5350&text=MOHSIN%20MANZOOR&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descAlignY=58&animation=fadeIn"/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFEBEE,50:EF9A9A,100:E53935&text=MOHSIN%20MANZOOR&fontColor=B71C1C&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descColor=B71C1C&descAlignY=58&animation=fadeIn"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving"/>
-
-</picture>
+</div>
 
 <br>
 
