@@ -419,7 +419,6 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 </div>
 
 ---
-
 <br>
 
 <div align="center">
@@ -544,8 +543,8 @@ Community
 
 # 💭 A Quote I Believe In
 
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
+> **— Harold Abelson**
 
 </div>
 
@@ -553,9 +552,10 @@ Community
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE4EC,50:F8BBD0,100:E57399&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F87171,50:EF5350,100:D32F2F&height=2"/>
 
 </div>
+
 <div align="center">
 
 # 🐍 Contribution Snake
@@ -568,8 +568,6 @@ Community
 
 </div>
 
-> **Note:** The snake animation requires a GitHub Action (Platane/snk) to generate the SVG automatically.
-
 ---
 
 <div align="center">
@@ -579,23 +577,23 @@ Community
 <br>
 
 <a href="https://github.com/Mohsin-369">
-<img src="https://img.shields.io/badge/GitHub-E57399?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-D32F2F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohsinmanzoor-">
-<img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Mohsin_0369">
-<img src="https://img.shields.io/badge/X-E57399?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-C62828?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/mohsin____012">
-<img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=black"/>
+<img src="https://img.shields.io/badge/Instagram-EF5350?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:mohsinmanzoor0369@gmail.com">
-<img src="https://img.shields.io/badge/Email-E57399?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -622,9 +620,9 @@ Community
 
 <div align="center">
 
-# 🌸 Thanks for Visiting
+# ❤️ Thanks for Visiting
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=E57399&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let%27s+Build+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=EF5350&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
 
 <br><br>
 
@@ -636,7 +634,7 @@ Community
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FCE4EC,50:F8BBD0,100:E57399"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:F87171,50:EF5350,100:D32F2F"/>
 
 </div>
 
