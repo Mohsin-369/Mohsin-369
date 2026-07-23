@@ -34,7 +34,7 @@ alt="Typing SVG"/>
 
 <div align="center">
 
-# ❤️ About Me
+# 👨🏻‍💻 About Me
 
 *"Building software that is simple, scalable and meaningful."*
 
