@@ -1,30 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=F48FB1&text=MOHSIN%20MANZOOR&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=D32F2F&text=MOHSIN%20MANZOOR&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20DevOps%20Learner&descAlignY=58&animation=fadeIn"/>
 
 </div>
+
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&color=E57399&lines=Full-Stack+Developer;MERN+Stack+Developer;Learning+DevOps+%26+Cloud;Building+Modern+Web+Applications;Always+Building+Something+New"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&color=EF5350&lines=Full-Stack+Developer;MERN+Stack+Developer;Learning+DevOps+%26+Cloud;Building+Modern+Web+Applications;Always+Building+Something+New"
 alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/Mohsin-369">
-<img src="https://img.shields.io/github/followers/Mohsin-369?style=for-the-badge&label=Followers&labelColor=E57399&color=F48FB1"/>
+<img src="https://img.shields.io/github/followers/Mohsin-369?style=for-the-badge&label=Followers&labelColor=A61E2D&color=EF5350"/>
 </a>
 
 <a href="https://github.com/Mohsin-369">
-<img src="https://img.shields.io/github/stars/Mohsin-369?style=for-the-badge&label=Stars&labelColor=E57399&color=F48FB1"/>
+<img src="https://img.shields.io/github/stars/Mohsin-369?style=for-the-badge&label=Stars&labelColor=A61E2D&color=EF5350"/>
 </a>
 
 <a href="mailto:mohsinmanzoor0369@gmail.com">
-<img src="https://img.shields.io/badge/Email-E57399?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohsinmanzoor-">
-<img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-EF5350?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -33,7 +34,7 @@ alt="Typing SVG"/>
 
 <div align="center">
 
-# 🌸 About Me
+# ❤️ About Me
 
 *"Building software that is simple, scalable and meaningful."*
 
@@ -75,15 +76,15 @@ Rather than just learning technologies, I enjoy understanding **how real product
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Location-Amritsar,%20India-F48FB1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Amritsar,%20India-D32F2F?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-E57399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-C62828?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Learning-DevOps%20%26%20Cloud-F8BBD0?style=for-the-badge&logo=docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Learning-DevOps%20%26%20Cloud-EF5350?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </td>
 
@@ -92,10 +93,9 @@ Rather than just learning technologies, I enjoy understanding **how real product
 </table>
 
 ---
-
 <div align="center">
 
-## ✦ Current Focus ✦
+## 👨🏻‍💻 Current Focus
 
 </div>
 
@@ -145,7 +145,7 @@ Backend
 
 <td align="center" width="25%">
 
-### 🤝
+### 🔥
 
 ### Exploring
 
@@ -161,40 +161,27 @@ Automation
 
 </table>
 
----
-
-<div align="center">
-
-> ### 💬 *"Great software isn't just written — it's thoughtfully crafted."*
-
-</div>
-
----
-
-<div align="center">
-
-# 🛠 Tech Stack
-
-*"The technologies I use to design, build and deploy modern web applications."*
-
-</div>
-
 <br>
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://img.shields.io/badge/🚀%20Building-Production%20Ready-D32F2F?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,bash&theme=light"/>
+<img src="https://img.shields.io/badge/☁️%20Learning-Docker%20•%20AWS%20•%20Kubernetes-C62828?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📚%20Practicing-DSA%20•%20System%20Design-B71C1C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔥%20Exploring-Open%20Source%20•%20Automation-EF5350?style=for-the-badge"/>
 
 </div>
 
 ---
+
 <div align="center">
 
 # 🚀 Featured Projects
 
-*Building modern, scalable and user-focused web applications.*
+*Crafting modern, scalable, and user-focused web applications.*
 
 </div>
 
@@ -225,7 +212,11 @@ A modern peer-to-peer video conferencing platform built with **WebRTC**, **Socke
 <br><br>
 
 <a href="https://mohconnect.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Live-D32F2F?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Mohsin-369/MohConnect">
+<img src="https://img.shields.io/badge/📂%20GitHub-C62828?style=for-the-badge"/>
 </a>
 
 </td>
@@ -273,7 +264,11 @@ A gamified developer productivity platform that combines learning, roadmaps, cha
 <br><br>
 
 <a href="https://mohrocket.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Live-D32F2F?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Mohsin-369/MohRocket">
+<img src="https://img.shields.io/badge/📂%20GitHub-C62828?style=for-the-badge"/>
 </a>
 
 </td>
@@ -308,10 +303,13 @@ A modern photography portfolio showcasing landscapes, travel, and nature through
 
 <br><br>
 
-<a href="lostlens.netlify.app">
-<img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
+<a href="https://lostlens.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Live-D32F2F?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/Mohsin-369/Lost-Lens">
+<img src="https://img.shields.io/badge/📂%20GitHub-C62828?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -358,11 +356,11 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 <br><br>
 
 <a href="https://mohstay.onrender.com">
-<img src="https://img.shields.io/badge/🌐 Live-E57399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Live-D32F2F?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Mohsin-369/YOUR_REPO">
-<img src="https://img.shields.io/badge/📂 GitHub-F48FB1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📂%20GitHub-C62828?style=for-the-badge"/>
 </a>
 
 </td>
@@ -370,9 +368,11 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-### 🎨 Frontend
+### ❤️ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,bootstrap,redux&theme=light"/>
 
@@ -382,7 +382,7 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 
 <div align="center">
 
-### ⚙ Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman&theme=light"/>
 
@@ -392,7 +392,7 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 
 <div align="center">
 
-### 🗄 Database
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=light"/>
 
@@ -402,7 +402,7 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 
 <div align="center">
 
-### ☁ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,nginx&theme=light"/>
 
@@ -418,7 +418,6 @@ An Airbnb-inspired hotel booking platform featuring secure authentication, revie
 
 </div>
 
----
 <br>
 
 <div align="center">
