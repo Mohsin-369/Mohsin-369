@@ -76,7 +76,7 @@ Rather than just learning technologies, I enjoy understanding **how real product
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Location-Amritsar,%20India-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Kashmir,%20India-D32F2F?style=for-the-badge"/>
 
 <br>
 
