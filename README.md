@@ -531,7 +531,7 @@ Community
 
 <div align="center">
 
-| 📸 Photography | 🌙 Night Owl | ☕ Coffee | 🎧 Music | 🚀 Startups |
+| 📸 Photography | 🌙 Night Owl | ☕ NoonChai | 🏎️ F1 | 🚀 Startups |
 |:--------------:|:-----------:|:--------:|:--------:|:-----------:|
 
 </div>
