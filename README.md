@@ -457,7 +457,7 @@ Software Engineer building products used by millions
 
 </div>
 
-<table>
+<table align="center">
 
 <tr>
 
